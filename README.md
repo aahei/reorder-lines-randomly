@@ -5,7 +5,7 @@ It can reorder the lines in a file into random order.
 ## What is this for
 A friend asked to help him to make a vocabulary list into random order, so I made this.
 
-## Why do you make a such useless thing
+## Why do you make such a useless thing
 LOL.
 
 ## 这能干啥
